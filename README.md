@@ -1,6 +1,10 @@
-Excellent — let’s build a **basic app deployment on Amazon EKS**.
-I’ll walk you through a **simple Nginx app deployment on EKS** with clear steps.
-You can later swap out the app image for your own.
+**basic app deployment on Amazon EKS**.
+**simple Nginx app deployment on EKS** with clear steps.
+
+---
+## 📸 Screenshot
+
+![EKS](https://github.com/atulkamble/eks-nginx-app/blob/main/eks.png)
 
 ---
 
