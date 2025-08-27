@@ -2,9 +2,6 @@
 **simple Nginx app deployment on EKS** with clear steps.
 
 ---
-## 📸 Screenshot
-
-![EKS](https://github.com/atulkamble/eks-nginx-app/blob/main/eks.png)
 
 ---
 
